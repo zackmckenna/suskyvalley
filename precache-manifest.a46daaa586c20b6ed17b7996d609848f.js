@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "04687cc8adacc2e5d8bd157934a85afa",
+    "revision": "a72f7d7a352e1ebe50bad72235e8f7a8",
     "url": "/suskyvalley/index.html"
   },
   {
-    "revision": "2308b68cae36c9df8572",
+    "revision": "58d2d13e904ec245a152",
     "url": "/suskyvalley/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "31ced4e379039ca0a4d7",
+    "revision": "4b1350e390ce478ae2cf",
     "url": "/suskyvalley/static/css/main.449a1c3d.chunk.css"
   },
   {
-    "revision": "2308b68cae36c9df8572",
-    "url": "/suskyvalley/static/js/2.dbb8f4a6.chunk.js"
+    "revision": "58d2d13e904ec245a152",
+    "url": "/suskyvalley/static/js/2.3af03cb0.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/suskyvalley/static/js/2.dbb8f4a6.chunk.js.LICENSE.txt"
+    "url": "/suskyvalley/static/js/2.3af03cb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "31ced4e379039ca0a4d7",
-    "url": "/suskyvalley/static/js/main.478fc3d8.chunk.js"
+    "revision": "4b1350e390ce478ae2cf",
+    "url": "/suskyvalley/static/js/main.06882d6d.chunk.js"
   },
   {
     "revision": "e2c6163e85770f56e660",

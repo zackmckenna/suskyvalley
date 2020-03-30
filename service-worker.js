@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/suskyvalley/precache-manifest.af0f66e43648227d1a5f5df2820a7a1e.js"
+  "/suskyvalley/precache-manifest.a46daaa586c20b6ed17b7996d609848f.js"
 );
 
 self.addEventListener('message', (event) => {
