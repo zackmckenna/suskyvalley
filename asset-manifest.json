@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/github.io/suskyvalley/static/css/main.7f287089.chunk.css",
+    "main.js": "/github.io/suskyvalley/static/js/main.e5e681dc.chunk.js",
+    "main.js.map": "/github.io/suskyvalley/static/js/main.e5e681dc.chunk.js.map",
+    "runtime-main.js": "/github.io/suskyvalley/static/js/runtime-main.2cf2ab7a.js",
+    "runtime-main.js.map": "/github.io/suskyvalley/static/js/runtime-main.2cf2ab7a.js.map",
+    "static/css/2.de424728.chunk.css": "/github.io/suskyvalley/static/css/2.de424728.chunk.css",
+    "static/js/2.dbb8f4a6.chunk.js": "/github.io/suskyvalley/static/js/2.dbb8f4a6.chunk.js",
+    "static/js/2.dbb8f4a6.chunk.js.map": "/github.io/suskyvalley/static/js/2.dbb8f4a6.chunk.js.map",
+    "index.html": "/github.io/suskyvalley/index.html",
+    "precache-manifest.3edad9310417ad52b209d9daccbbef8e.js": "/github.io/suskyvalley/precache-manifest.3edad9310417ad52b209d9daccbbef8e.js",
+    "service-worker.js": "/github.io/suskyvalley/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/github.io/suskyvalley/static/css/2.de424728.chunk.css.map",
+    "static/css/main.7f287089.chunk.css.map": "/github.io/suskyvalley/static/css/main.7f287089.chunk.css.map",
+    "static/js/2.dbb8f4a6.chunk.js.LICENSE.txt": "/github.io/suskyvalley/static/js/2.dbb8f4a6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/github.io/suskyvalley/static/media/StardewValleyText.790b1019.ttf",
+    "static/media/logo.svg": "/github.io/suskyvalley/static/media/logo.5d5d9eef.svg",
+    "static/media/sdv_divider.png": "/github.io/suskyvalley/static/media/sdv_divider.e4b9ac23.png",
+    "static/media/App.css": "/github.io/suskyvalley/static/media/stardewbackground.317d7843.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cf2ab7a.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.dbb8f4a6.chunk.js",
+    "static/css/main.7f287089.chunk.css",
+    "static/js/main.e5e681dc.chunk.js"
+  ]
+}
