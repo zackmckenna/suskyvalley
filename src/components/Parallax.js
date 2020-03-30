@@ -193,7 +193,7 @@ const MyComponent = () => {
   const PartOne = () => {
     return (
       <>
-        <h3 style={{ fontFamily: 'StardewValleyText'}}>What a great day in the Valley for such a special occasion! You've toiled long and hard this year to create an incredible farm. You've fought a countless number of horrific monsters, filled the hearts of everyone here with love, and have truly given this town 100%. So, for that, the citizens of Susky Valley thank you {playerName}, and wish you a Happy Birthday!</h3>
+        <h3 style={{ fontFamily: 'StardewValleyText'}}>What a great day in the Valley for such a special occasion! You've toiled long and hard this year to create an incredible farm. You've fought a countless number of horrific monsters, filled the hearts of everyone here with love, and have truly given this town 100%. So, for that, the citizens of Susky Valley thank you <span style={{ color: 'orange' }}>{playerName}</span>, and wish you a Happy Birthday!</h3>
         <Button onClick={(event) => handlePartClick(event)} style= {{ fontFamily: 'StardewValleyText' }}>Yay! It's my birthday!</Button>
       </>
     )
