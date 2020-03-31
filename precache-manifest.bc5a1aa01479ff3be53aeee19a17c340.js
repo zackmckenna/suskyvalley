@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a72f7d7a352e1ebe50bad72235e8f7a8",
+    "revision": "4e81d8e934c61c6af897123b843b4fd1",
     "url": "/suskyvalley/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suskyvalley/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "4b1350e390ce478ae2cf",
+    "revision": "60d366c4ef709b9fdbd7",
     "url": "/suskyvalley/static/css/main.449a1c3d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/suskyvalley/static/js/2.3af03cb0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b1350e390ce478ae2cf",
-    "url": "/suskyvalley/static/js/main.06882d6d.chunk.js"
+    "revision": "60d366c4ef709b9fdbd7",
+    "url": "/suskyvalley/static/js/main.fc3ab660.chunk.js"
   },
   {
     "revision": "e2c6163e85770f56e660",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/suskyvalley/static/css/main.449a1c3d.chunk.css",
-    "main.js": "/suskyvalley/static/js/main.06882d6d.chunk.js",
-    "main.js.map": "/suskyvalley/static/js/main.06882d6d.chunk.js.map",
+    "main.js": "/suskyvalley/static/js/main.fc3ab660.chunk.js",
+    "main.js.map": "/suskyvalley/static/js/main.fc3ab660.chunk.js.map",
     "runtime-main.js": "/suskyvalley/static/js/runtime-main.d7e05616.js",
     "runtime-main.js.map": "/suskyvalley/static/js/runtime-main.d7e05616.js.map",
     "static/css/2.de424728.chunk.css": "/suskyvalley/static/css/2.de424728.chunk.css",
     "static/js/2.3af03cb0.chunk.js": "/suskyvalley/static/js/2.3af03cb0.chunk.js",
     "static/js/2.3af03cb0.chunk.js.map": "/suskyvalley/static/js/2.3af03cb0.chunk.js.map",
     "index.html": "/suskyvalley/index.html",
-    "precache-manifest.a46daaa586c20b6ed17b7996d609848f.js": "/suskyvalley/precache-manifest.a46daaa586c20b6ed17b7996d609848f.js",
+    "precache-manifest.bc5a1aa01479ff3be53aeee19a17c340.js": "/suskyvalley/precache-manifest.bc5a1aa01479ff3be53aeee19a17c340.js",
     "service-worker.js": "/suskyvalley/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/suskyvalley/static/css/2.de424728.chunk.css.map",
     "static/css/main.449a1c3d.chunk.css.map": "/suskyvalley/static/css/main.449a1c3d.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.3af03cb0.chunk.js",
     "static/css/main.449a1c3d.chunk.css",
-    "static/js/main.06882d6d.chunk.js"
+    "static/js/main.fc3ab660.chunk.js"
   ]
 }
