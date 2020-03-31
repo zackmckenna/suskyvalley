@@ -193,7 +193,7 @@ const MyComponent = () => {
   const PartOne = () => {
     return (
       <>
-        <h3 style={{ fontFamily: 'StardewValleyText'}}>What a great day in the Valley for such a special occasion! You've toiled long and hard this year to create an incredible farm. You've fought a countless number of horrific monsters, filled the hearts of everyone here with love, and have truly given this town 100%. So, for that, the citizens of Susky Valley thank you <span style={{ color: 'orange' }}>{playerName}</span>, and wish you a Happy Birthday!</h3>
+        <h3 style={{ fontFamily: 'StardewValleyText'}}>What a great day in the Valley for such a special occasion! You've toiled long and hard this year to create a truly incredible farm. You've fought a countless number of horrific monsters, braved dire situations, filled the hearts of everyone here to the brim with love, and have truly given this town, and Sebastian 100%. So, for that, the citizens of Susky Valley thank you <span style={{ color: 'orange' }}>{playerName}</span>, and wish you a Happy Birthday! Give yourself a pat on the back!</h3>
         <Button onClick={(event) => handlePartClick(event)} style= {{ fontFamily: 'StardewValleyText' }}>Yay! It's my birthday!</Button>
       </>
     )
@@ -244,7 +244,7 @@ const MyComponent = () => {
   const PartFour = () => {
     return (
     <>
-      <h3 style={{ fontFamily: 'StardewValleyText'}}>Great! I hope you're feeling more caffeinated now. So there are two items that you'll probably need to find your gift, so lets start with the first one. You'll need your compass to tell you where to go. Some spooky looking <span style={{ color: 'red'}}>M</span><span style={{ color: 'green'}}>A</span><span style={{ color: 'yellow'}}>G</span><span style={{ color: 'purple'}}>N</span><span style={{ color: '#B5E0F1'}}>E</span><span style={{ color: 'orange'}}>T</span><span style={{ color: 'blue'}}>S</span> might have hid it somewhere. Look behind them and you may find the clue!</h3>
+      <h3 style={{ fontFamily: 'StardewValleyText'}}>Great! I hope you're feeling more caffeinated now. So there are two items that you'll probably need to find your gift, so lets start with the first one. Of course you'll need your compass to tell you where to go. Some spooky looking <span style={{ color: 'red'}}>M</span><span style={{ color: 'green'}}>A</span><span style={{ color: 'yellow'}}>G</span><span style={{ color: 'purple'}}>N</span><span style={{ color: '#B5E0F1'}}>E</span><span style={{ color: 'orange'}}>T</span><span style={{ color: 'blue'}}>S</span> might have hid it somewhere. Look behind them and you may find the clue!</h3>
     </>
     )
   }
@@ -265,7 +265,7 @@ const MyComponent = () => {
 
   const PartSeven = () => {
     return (
-      <h3 style={{ fontFamily: 'StardewValleyText'}}>Oh! I almost forgot! Make sure to grab the map. I think one of Krobus' friends got to it, so it might be in poor shape. I think I last saw it around the black shipping crate in the kitchen. Grab the map, your compass, the shovel, and go find your Birthday Gift! Once again, happy birthday {name}, from everyone here in Susky Valley! I hope it's a fantastic day. </h3>
+      <h3 style={{ fontFamily: 'StardewValleyText'}}>So that's where that shovel went too. Looks like you're all set, at least you're not heading down to the mines. Oh! I almost forgot! Make sure to grab the map. I think one of Krobus' friends got to it, so it might be in poor shape. I think I last saw it around the black shipping crate in the kitchen. Grab the map, your compass, the shovel, and go find your Birthday Gift! Once again, happy birthday {name}, from everyone here in Susky Valley! I hope it's a fantastic day. </h3>
     )
   }
 
@@ -279,17 +279,16 @@ const MyComponent = () => {
             strength={200}
         >
           <Container>
-
-            <Row>
-                <Col>
-                  <h1 className='mt-5' style={{ WebkitTextFillColor: 'rgba(217, 190, 37)', fontColor: 'black', fontSize: '10rem', marginBottom: '0', fontFamily: 'StardewValley'}}>
+            <Row >
+                <Col >
+                  <h1 className='mt-5' style={{ WebkitTextFillColor: 'rgba(217, 190, 37)', fontColor: 'black', fontSize: '30vmin', marginBottom: '0', fontFamily: 'StardewValley'}}>
                       <span style={{ fontFamily: 'StardewValleyCaps'}}>S</span>USK<span style={{ fontFamily: 'StardewValleyCaps'}}>Y</span>
                   </h1>
                 </Col>
               </Row>
               <Row>
-                <Col>
-                  <h1 style={{ WebkitTextFillColor: 'rgba(217, 190, 37)', margin: '0', fontSize: '10rem', fontFamily: 'StardewValley'}}>
+                <Col >
+                  <h1 style={{ WebkitTextFillColor: 'rgba(217, 190, 37)', margin: '0', fontSize: '30vmin', fontFamily: 'StardewValley'}}>
                     <span style={{ fontFamily: 'StardewValleyCaps'}}>V</span>ALLE<span style={{ fontFamily: 'StardewValleyCaps'}}>Y</span>
                   </h1>
                 </Col>
